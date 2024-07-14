@@ -1,0 +1,5 @@
+## OnePad - py
+
+This clones the input of a controller to a vjoy device.
+
+Then it combines the left X axis with the right one, so you can use both sticks to steer.
